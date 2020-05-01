@@ -1,4 +1,4 @@
 <?php
-header("Location: https://opusenergy-login.wixsite.com/opendashboard");
+header("Location: https://www.adelaidezoo.com.au/visitor-information/adelaide-zoo-gardens/");
 die();
 ?>
